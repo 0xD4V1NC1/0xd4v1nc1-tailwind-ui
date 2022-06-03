@@ -1,9 +1,9 @@
 {
   "name": "@0xd4v1nc1/tailwind-ui",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "repository": {
     "type": "git",
-    "url": "https://github.com/0xd4v1nc1/tailwind-ui.git"
+    "url": "https://github.com/0xd4v1nc1/npm-packages.git"
   },
   "author": "0xD4V1NC1",
   "dependencies": {
